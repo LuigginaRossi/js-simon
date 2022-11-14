@@ -1,0 +1,7 @@
+input{
+    text-align: center;
+}
+.form-control {
+    width: 50%;
+    align-self: center;
+}
